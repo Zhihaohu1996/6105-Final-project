@@ -59,7 +59,8 @@ pip install jupyter
 git clone <your-repo-url>
 cd <your-repo>
 jupyter notebook
-Notebooks/spotify_simple_project_updated.ipynb
+spotify_simple_project_updated.ipynb
+
 
 
 
